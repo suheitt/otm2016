@@ -6,3 +6,5 @@ Tiedostoon piti kirjoittaa *jotain* tekstiä. Tässä sitä nyt **on**.
 https://github.com/suheitt/otm2016/blob/master/dokumentointi/kaytto-ohje.md
 
 tälläinen kiva pikku muutos vielä
+
+https://github.com/suheitt/otm2016/blob/master/dokumentointi/maarittelydokumentti.md
